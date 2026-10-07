@@ -1,6 +1,7 @@
 # Data Analytics Project
 
-💯 Project Overview
+       💯 Project Overview
+        ....................
 
 This project is part of my learning journey in Data Analytics.
 The main objective is to collect, clean, analyze, visualize, and interpret data in order to extract useful insights and support data-driven decision-making.
@@ -8,6 +9,7 @@ The main objective is to collect, clean, analyze, visualize, and interpret data 
 I am developing this project to strengthen my practical skills in Python, SQL, Excel, and Power BI.
 
 Objectives
+..........
 
 The main objectives of this project are to:
 
@@ -21,6 +23,7 @@ The main objectives of this project are to:
 - Present data-driven recommendations
 
 Tools & Technologies
+....................
 
 The project uses the following tools:
 
@@ -33,6 +36,7 @@ The project uses the following tools:
 - Git & GitHub
 
 Data Analytics Process
+......................
 
 The project follows these main steps:
 
@@ -46,31 +50,27 @@ The project follows these main steps:
 8. Recommendations
 
 Project Structure
+.................
 
-data-analytics-project/
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── notebooks/
-│   └── data_analysis.ipynb
-│
-├── scripts/
-│   └── data_cleaning.py
-│
-├── dashboards/
-│   └── dashboard.pbix
-│
-├── reports/
-│   └── analysis_report.pdf
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
+Data-analytics-project 🌍
+
+ 1. data
+    1.1.raw
+    1.2.cleaned
+ 2. notebooks
+    2.1.data_analysis.ipynb
+ 3. scripts
+    3.1.data_cleaning.py
+ 4. dashboards
+    4.1.dashboard.pbix
+ 5. reports
+    5.1.analysis_report.pdf
+ 6. images
+    6.1.dashboard.png
+ 7. README.md
 
 Analysis
+........
 
 The analysis focuses on:
 
@@ -82,18 +82,21 @@ The analysis focuses on:
 - Business insights
 
 Dashboard
+.........
 
 An interactive dashboard will be developed using Microsoft Power BI to present the main findings in a clear and understandable way.
 
 «Dashboard development in progress.»
 
 Key Insights
+............
 
 The main insights discovered during the analysis will be documented here.
 
 «Analysis in progress.»
 
 Skills Developed
+................
 
 Through this project, I am developing practical skills in:
 
@@ -108,12 +111,14 @@ Through this project, I am developing practical skills in:
 - Data storytelling
 
 About Me
+........
 
-My name is Joy Kapend. I have a background in Mathematics and Computer Science and I am currently developing my skills in Data Analytics.
+My name is KAVUND-A-KAPEND JOY. I have a background in Computer Science and I am currently developing my skills in Data Analytics.
 
-My goal is to become a Data Analyst capable of transforming raw data into meaningful insights and logical solutions for organizations.
+My goal is to becomes Data Analyst capable of transforming raw data into meaningful insights and logical solutions for organizations.
 
 Contact
+.......
 
 Profile" (https://github.com/joykavundakapend29/)
 
